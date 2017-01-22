@@ -1,0 +1,31 @@
+/*#fb_icon {*/
+    /*!*display: block;*!*/
+
+    /*position: absolute;*/
+    /*width: 50px;*/
+    /*height: 50px;*/
+/*}*/
+/*.crx_mouse_visited {*/
+/*!*.image_hover_bg{*!*/
+    /*!*background: url("chrome-extension://kefbgopkamikmocnomhhgmjjffndbiam/fb_icon.png") no-repeat scroll center center rgba(0, 0, 0, 0);*!*/
+    /*position: absolute;*/
+    /*top:50%;*/
+    /*left:50%;*/
+    /*margin-top:-50px;*/
+    /*margin-left:-50px;*/
+    /*z-index: 1;*/
+    /*display:none;*/
+/*}*/
+
+/*.srcElement:hover .crx_mouse_visited{*/
+/*!*.profile-image:hover .image_hover_bg{*!*/
+    /*display:block;*/
+    /*z-index: 2;*/
+    /*width: 100px;*/
+    /*height: 100px;*/
+/*}*/
+
+/*!*.crx_mouse_visited {*!*/
+    /*!*background-color: #bcd5eb !important;*!*/
+    /*!*outline: 1px solid #5166bb !important;*!*/
+/*!*}*!*/
